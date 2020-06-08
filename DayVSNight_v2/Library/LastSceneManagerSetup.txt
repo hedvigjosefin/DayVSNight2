@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Downloaded Packages/SampleScenes/Scenes/Car.unity
+- path: Assets/Scenes/Environment/Forest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
